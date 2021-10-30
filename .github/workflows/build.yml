@@ -46,3 +46,4 @@ jobs:
       with:
         name: hactool-${{ matrix.job_name }}
         path: hactool*
+        
